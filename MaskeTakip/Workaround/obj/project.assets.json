@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-c#-homeworks\\MaskeTakip\\Workaround\\Workaround.csproj",
+      "projectUniqueName": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-csharp-homeworks\\MaskeTakip\\Workaround\\Workaround.csproj",
       "projectName": "Workaround",
-      "projectPath": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-c#-homeworks\\MaskeTakip\\Workaround\\Workaround.csproj",
+      "projectPath": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-csharp-homeworks\\MaskeTakip\\Workaround\\Workaround.csproj",
       "packagesPath": "C:\\Users\\Enes\\.nuget\\packages\\",
-      "outputPath": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-c#-homeworks\\MaskeTakip\\Workaround\\obj\\",
+      "outputPath": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-csharp-homeworks\\MaskeTakip\\Workaround\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Enes\\AppData\\Roaming\\NuGet\\NuGet.Config",

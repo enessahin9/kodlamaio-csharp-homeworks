@@ -1,0 +1,15 @@
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\bin\Debug\net8.0\TypesAndVeriables.exe
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\bin\Debug\net8.0\TypesAndVeriables.deps.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\bin\Debug\net8.0\TypesAndVeriables.runtimeconfig.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\bin\Debug\net8.0\TypesAndVeriables.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\bin\Debug\net8.0\TypesAndVeriables.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\TypesAndVeriables.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\TypesAndVeriables.AssemblyInfoInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\TypesAndVeriables.AssemblyInfo.cs
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\TypesAndVeriables.csproj.CoreCompileInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\TypesAndVeriables.sourcelink.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\TypesAndVeriables.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\refint\TypesAndVeriables.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\TypesAndVeriables.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\TypesAndVeriables.genruntimeconfig.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\TypesAndVeriables\obj\Debug\net8.0\ref\TypesAndVeriables.dll

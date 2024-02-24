@@ -1,0 +1,15 @@
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\bin\Debug\net8.0\Strings.exe
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\bin\Debug\net8.0\Strings.deps.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\bin\Debug\net8.0\Strings.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\bin\Debug\net8.0\Strings.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\Strings.sourcelink.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\Strings.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\refint\Strings.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\Strings.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Strings\obj\Debug\net8.0\ref\Strings.dll

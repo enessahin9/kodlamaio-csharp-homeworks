@@ -1,0 +1,15 @@
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\bin\Debug\net8.0\Interfaces.exe
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\bin\Debug\net8.0\Interfaces.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\Interfaces.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

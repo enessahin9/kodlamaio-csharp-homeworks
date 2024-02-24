@@ -1,0 +1,15 @@
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\bin\Debug\net8.0\Loops.exe
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\bin\Debug\net8.0\Loops.deps.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\bin\Debug\net8.0\Loops.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\bin\Debug\net8.0\Loops.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\Loops.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\refint\Loops.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\Loops.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Loops\obj\Debug\net8.0\ref\Loops.dll

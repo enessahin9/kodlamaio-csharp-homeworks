@@ -1,0 +1,15 @@
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\bin\Debug\net8.0\Conditionals.exe
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\bin\Debug\net8.0\Conditionals.deps.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\bin\Debug\net8.0\Conditionals.runtimeconfig.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\bin\Debug\net8.0\Conditionals.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\bin\Debug\net8.0\Conditionals.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\Conditionals.AssemblyInfoInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\Conditionals.AssemblyInfo.cs
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\Conditionals.csproj.CoreCompileInputs.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\Conditionals.sourcelink.json
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\Conditionals.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\refint\Conditionals.dll
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\Conditionals.pdb
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\Conditionals.genruntimeconfig.cache
+D:\1 - DOCUMENTS\kodlamaioC#\kodlamaio-csharp-homeworks\CSharpCourse\Conditionals\obj\Debug\net8.0\ref\Conditionals.dll

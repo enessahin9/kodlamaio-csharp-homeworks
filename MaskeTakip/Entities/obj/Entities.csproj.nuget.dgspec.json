@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-c#-homeworks\\MaskeTakip\\Entities\\Entities.csproj": {}
+    "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-csharp-homeworks\\MaskeTakip\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-c#-homeworks\\MaskeTakip\\Entities\\Entities.csproj": {
+    "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-csharp-homeworks\\MaskeTakip\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-c#-homeworks\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-csharp-homeworks\\MaskeTakip\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-c#-homeworks\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectPath": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-csharp-homeworks\\MaskeTakip\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Enes\\.nuget\\packages\\",
-        "outputPath": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-c#-homeworks\\MaskeTakip\\Entities\\obj\\",
+        "outputPath": "D:\\1 - DOCUMENTS\\kodlamaioC#\\kodlamaio-csharp-homeworks\\MaskeTakip\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Enes\\AppData\\Roaming\\NuGet\\NuGet.Config",
